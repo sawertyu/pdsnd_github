@@ -9,6 +9,7 @@ CITY_DATA = { 'chicago': 'chicago.csv',
 MONTHS = ["january","february","march","april","may","june"]
 DAYS = ["monday","tuesday","wednesday","thursday","friday","saturday","sunday"]
 invalid_message = "\nInvalid input. Please, try again."
+final_message = "Congrats! We did it"
 
 def month_filter():
     while True:
