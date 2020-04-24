@@ -1,15 +1,14 @@
 ### Date created
-Include the date you created this project and README file.
+The project was created on 24th of April, 2020.
 
 ### Project Title
-Replace the Project Title
+US bikeshare market research
 
 ### Description
-Describe what your project is about and what it does
+The goal of the project was the analysis of the data related to bike share systems for three major cities in the United States — Chicago, New York City, and Washington. The created interactive program takes raw inputs from a user in the terminal and, based on the answers provided, gives necessary statistics.
 
 ### Files used
-Include the files used
-
-### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+chicago.csv
+new_york_city.csv
+washington.csv
 
