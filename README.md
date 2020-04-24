@@ -1,5 +1,5 @@
 ### Date created
-The project was created on 24th of April, 2020.
+The project was created on April 23, 2020.
 
 ### Project Title
 US bikeshare market research.
