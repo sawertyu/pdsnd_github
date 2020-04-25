@@ -11,6 +11,9 @@ DAYS = ["monday","tuesday","wednesday","thursday","friday","saturday","sunday"]
 invalid_message = "\nInvalid input. Please, try again."
 
 def month_filter():
+    """
+    Asks user to specify a month to review
+    """
     while True:
         month = input("\nPlease, specify the full name of the month: \n").lower()
         if month in MONTHS:
