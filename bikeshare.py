@@ -24,6 +24,9 @@ def month_filter():
 
 
 def day_filter():
+    """
+    Asks user to specify a day to review
+    """
     while True:
         day = input("\nPlease, specify the day (Monday, Tuesday, etc.): \n").lower()
         if day in DAYS:
